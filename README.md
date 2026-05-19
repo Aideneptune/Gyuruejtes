@@ -19,7 +19,7 @@ Ez a program egy komplex adatelemző eszköz, amely a gyűrűejtési kísérlete
       *   A VSCode telepítése után érdemes lehet telepíteni a "Python" bővítményt (Microsoft által), amely számos hasznos funkciót biztosít a Python fejlesztéshez.
 
 - **Statisztikai elemzés:** Átlagok és szórások számítása.
-- **Gépi tanulás:** Random Forest (Véletlen erdő) modell használata a szarvmagasság előrejelzésére.
+- **Gépi tanulás:** Random Forest modell használata a szarvmagasság előrejelzésére.
 - **Kísérlettervezés:** Javaslatok tételése új mérési pontokra ott, ahol a modell bizonytalan vagy kevés az adat.
 - **Interaktív vizualizáció:** Plotly alapú 3D térképek és válaszfelület kontúrdiagramok.
 - **Riportkészítés:** Egyetlen, hordozható HTML jelentés generálása, amely PDF-be is menthető.
