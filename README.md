@@ -2,6 +2,8 @@
 
 Ez a program egy komplex adatelemző eszköz, amely a gyűrűejtési kísérletek eredményeit dolgozza fel különböző anyagok (műanyag, fém, szappan) esetén. Az elemzést tartalmaz másodfokú regresszión alapuló elemzést és gépi tanulást is.
 
+A Gyuru_Riport mappába beletettem az általam legutóbb generált diagramokat és a riport fájlt. Ezt a riport.html-t megnyitva neked is megnyílik a kiértékelés. A forráskód pedig a repozitóriumban található. Alább egy kis leírás róla:
+
 ## Főbb funkciók
 
 - **Előfeltételek:**
