@@ -26,9 +26,9 @@ Ez a program egy komplex adatelemző eszköz, amely a gyűrűejtési kísérlete
 
 ## Használat
 
-1. Telepítsd a szükséges csomagokat a `requirements/requirements.txt` fájlból:
+1. Telepítsd a szükséges csomagokat a `requirements.txt` fájlból:
    ```bash
-   pip install -r requirements/requirements.txt
+   pip install -r requirements.txt
    ```
 2. Győződj meg róla, hogy az Excel forrásfájl elérhető a kódban megadott útvonalon.
 3. Futtasd a Python szkriptet.
