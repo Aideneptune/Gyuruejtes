@@ -4,7 +4,7 @@ Ez a program egy komplex adatelemző eszköz, amely a gyűrűejtési kísérlete
 
 ## Főbb funkciók
 
-- **Előfeltételek**
+- **Előfeltételek:**
   Mielőtt elkezdenéd a program használatát, győződj meg róla, hogy a következő szoftverek telepítve vannak a gépeden:
 
   1.  **Python 3.x:**
